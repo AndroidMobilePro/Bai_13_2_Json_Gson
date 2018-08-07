@@ -1,0 +1,86 @@
+{
+  "commitClinics": [
+    {
+      "title": "駐車場あり",
+      "content": "parking"
+    },
+    {
+      "title": "駅近",
+      "content": "close_station"
+    },
+    {
+      "title": "バリアフリー",
+      "content": "barrierfree"
+    },
+    {
+      "title": "オンライン予約",
+      "content": "online_reserve"
+    },
+    {
+      "title": "キッズスペース",
+      "content": "kids_space"
+    },
+    {
+      "title": "個室制",
+      "content": "private_room"
+    },
+    {
+      "title": "カード払い可",
+      "content": "card_payment"
+    },
+    {
+      "title": "院内処方",
+      "content": "prescription"
+    },
+    {
+      "title": "靴のまま診療OK",
+      "content": "shoes"
+    },
+    {
+      "title": "自費治療のみ",
+      "content": "own_expense"
+    },
+    {
+      "title": "深夜対応",
+      "content": "after20"
+    },
+    {
+      "title": "英語対応",
+      "content": "english"
+    },
+    {
+      "title": "中国語対応",
+      "content": "chinese"
+    },
+    {
+      "title": "韓国語対応",
+      "content": "korean"
+    }
+  ],
+  "powerClinics": [
+    {
+      "title": "若い",
+      "content": "young"
+    },
+    {
+      "title": "ベテラン",
+      "content": "veteran"
+    },
+    {
+      "title": "話し好き",
+      "content": "talkativeness"
+    },
+    {
+      "title": "寡黙",
+      "content": "taciturn"
+    },
+    {
+      "title": "男性医師",
+      "content": "man"
+    },
+    {
+      "title": "女性医師",
+      "content": "woman"
+    }
+  ]
+}
